@@ -1,0 +1,10 @@
+E:\COMP 2900\EXAMEN FINAL\Lab6\Lab6\bin\Debug\Lab6.exe.config
+E:\COMP 2900\EXAMEN FINAL\Lab6\Lab6\bin\Debug\Lab6.exe
+E:\COMP 2900\EXAMEN FINAL\Lab6\Lab6\bin\Debug\Lab6.pdb
+E:\COMP 2900\EXAMEN FINAL\Lab6\Lab6\bin\Debug\Lab6.xml
+E:\COMP 2900\EXAMEN FINAL\Lab6\Lab6\obj\Debug\Lab6.Form1.resources
+E:\COMP 2900\EXAMEN FINAL\Lab6\Lab6\obj\Debug\Lab6.Resources.resources
+E:\COMP 2900\EXAMEN FINAL\Lab6\Lab6\obj\Debug\Lab6.vbproj.GenerateResource.Cache
+E:\COMP 2900\EXAMEN FINAL\Lab6\Lab6\obj\Debug\Lab6.exe
+E:\COMP 2900\EXAMEN FINAL\Lab6\Lab6\obj\Debug\Lab6.xml
+E:\COMP 2900\EXAMEN FINAL\Lab6\Lab6\obj\Debug\Lab6.pdb
